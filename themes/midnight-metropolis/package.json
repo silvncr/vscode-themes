@@ -1,0 +1,32 @@
+{
+  "name": "midnight-metropolis",
+  "displayName": "Midnight Metropolis",
+  "description": "A blue-purple colour theme with light blue accents.",
+  "publisher": "silvncr",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "icon": "icons/midnight-metropolis-vsc-icon.png",
+  "author": {
+    "name": "silvncr",
+    "url": "https://silvncr.github.io",
+    "github": "https://github.com/silvncr"
+  },
+  "repository": {
+    "url": "https://github.com/silvncr/vscode-themes.git",
+    "type": "git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Metropolis",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Metropolis-color-theme.json"
+      }
+    ]
+  }
+}
