@@ -3,7 +3,7 @@
   "displayName": "Midnight Metropolis",
   "description": "A blue-purple colour theme with light blue accents.",
   "publisher": "silvncr",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.75.0"
   },

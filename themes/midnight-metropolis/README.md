@@ -20,3 +20,5 @@ You can author your README using Visual Studio Code. Here are some useful editor
 -->
 
 # Midnight Metropolis
+
+Inspired by [`Endormi.2077-theme`](https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme) and [`kyleerickson.night-rider`](https://marketplace.visualstudio.com/items?itemName=kyleerickson.night-rider).
