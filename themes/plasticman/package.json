@@ -1,0 +1,32 @@
+{
+  "name": "plasticman",
+  "displayName": "Plasticman",
+  "description": "A weird theme idea I had.",
+  "publisher": "silvncr",
+  "version": "0.1.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "icon": "icons/plasticman-vsc-icon.png",
+  "author": {
+    "name": "silvncr",
+    "url": "https://silvncr.github.io",
+    "github": "https://github.com/silvncr"
+  },
+  "repository": {
+    "url": "https://github.com/silvncr/vscode-themes.git",
+    "type": "git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Plasticman",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Plasticman-color-theme.json"
+      }
+    ]
+  }
+}
